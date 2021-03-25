@@ -1,0 +1,26 @@
+{
+  "name": "webpack-test",
+  "version": "1.0.0",
+  "description": "webpack-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topsart/webpack-test.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/topsart/webpack-test/issues"
+  },
+  "homepage": "https://github.com/topsart/webpack-test#readme",
+  "dependencies": {
+    "is-odd": "^3.0.1",
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.5.0",
+    "webpack": "^5.28.0"
+  }
+}
