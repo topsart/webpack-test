@@ -1,3 +1,19 @@
 .title {
   color: violet;
+  text-align: center;
+}
+
+.img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.swiper-container {
+  height: auto;
+  width: 700px;
+}
+
+.swiper-slide {
+  text-align: center;
 }
